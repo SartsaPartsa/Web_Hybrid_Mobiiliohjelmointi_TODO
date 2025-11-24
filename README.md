@@ -52,6 +52,9 @@ Tehtävä on osa kurssia **Web- ja hybriditeknologiat mobiiliohjelmoinnissa (IN0
 ### Olemassa olevan projektin käynnistys:
 
 ```bash
+# Siirry projektin kansioon
+cd Tehtava4/Todo-app
+
 # Asenna riippuvuudet
 npm install
 
@@ -80,7 +83,7 @@ npm run web       # Verkkoselain
 Web_Hybrid_Mobiiliohjelmointi_TODO/
 ├── README.md
 └── Tehtava4/
-    └── Todo/
+    └── Todo-app/
         ├── App.tsx              # Sovelluksen pääkomponentti
         ├── app.json             # Expo-konfiguraatio  
         ├── index.ts             # Sovelluksen käynnistyspiste
@@ -130,6 +133,11 @@ Web_Hybrid_Mobiiliohjelmointi_TODO/
 - [React useState Hook](https://react.dev/reference/react/useState) - Tilanhallinnan perusteet
 - [React useEffect Hook](https://react.dev/reference/react/useEffect) - Sivuvaikutukset
 - [React Hooks Documentation](https://react.dev/reference/react) - Kaikki React Hooks
+- [Updating Arrays in State](https://react.dev/learn/updating-arrays-in-state) - Taulukoiden päivittäminen tilassa
+
+### Tehtäväkohtaiset oppaat:
+- [Conditional Styling in React](https://stackoverflow.com/questions/35762351/correct-way-to-handle-conditional-styling-in-react) - Ehdollinen tyylittely
+- [Strike Through Text in React Native](https://stackoverflow.com/questions/45833682/how-to-add-strike-through-on-text-in-react-native) - Yliviivaus React Nativessa
 
 ### Expo dokumentaatio:
 - [Expo Documentation](https://docs.expo.dev/) - Expo-alustan dokumentaatio
