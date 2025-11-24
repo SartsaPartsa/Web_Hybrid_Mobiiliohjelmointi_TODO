@@ -149,8 +149,3 @@ Web_Hybrid_Mobiiliohjelmointi_TODO/
 - [Android Studio](https://developer.android.com/studio) - Android-emulaattori
 - [Xcode](https://developer.apple.com/xcode/) - iOS-simulaattori
 
----
-
-## About
-
-Web- ja hybriditeknologiat mobiiliohjelmoinnissa -kurssin viikkotehtävä 4 - Sara Vehviläinen
