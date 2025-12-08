@@ -2,7 +2,7 @@
 
 **Tekijä:** Sara Vehviläinen  
 **Oppilaitos:** Oulun ammattikorkeakoulu  
-**Kurssi:** Web- ja hybriditeknologiat mobiiliohjelmoinnissa (IN00CT08-3006)  
+**Kurssi:** Web- ja hybriditeknologiat mobiiliohjelmoinnissa (IN00CT08-3009)  
 **Lukukausi:** Syksy 2025
 
 ---
@@ -10,7 +10,7 @@
 ## 🧩 Tehtävän kuvaus
 
 Tämä sovellus on yksinkertainen tehtävälista (Todo List), jossa käyttäjä voi lisätä, merkitä tehdyiksi ja tallentaa tehtäviä pysyvästi laitteen muistiin.  
-Tehtävä on osa kurssia **Web- ja hybriditeknologiat mobiiliohjelmoinnissa (IN00CT08-3006)**.
+Tehtävä on osa kurssia **Web- ja hybriditeknologiat mobiiliohjelmoinnissa (IN00CT08-3009)**.
 
 ---
 
